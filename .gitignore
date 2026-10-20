@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Node / Next.js
+node_modules/
+.next/
+.vercel/
+
+# Environment files (keep the example)
+.env
+.env*
+!.env.example
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
